@@ -1,11 +1,11 @@
 ---
-title: A Personal Blog
+title: A Personal Website
 description: 
 layout: default
 canonical: https://khmuller.github.io
 ---
 
-## A Personal Blog
+## A Personal Website
 
 ### Table of Content
 (In alphabetical order)
