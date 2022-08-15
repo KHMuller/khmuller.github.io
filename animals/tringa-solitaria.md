@@ -1,6 +1,7 @@
 ---
     title: Solitary Sandpiper (Tringa solitaria)
-    layout: default
+    layout: animal
+    id_photo: khm-20190511-1640-1557578457
 ---
 
 ## Solitary Sandpiper (Tringa solitaria)
