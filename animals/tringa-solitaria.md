@@ -1,14 +1,14 @@
 ---
     title: Solitary Sandpiper (Tringa solitaria)
     layout: default
-
 ---
 
 ## Solitary Sandpiper (Tringa solitaria)
 
+
+### Profile
+
 {: #profile}
-|Field|Value|
-| ----------- | ----------- |
 |id_species|tringa-solitaria|
 |name_species|Solitary Sandpiper|
 |scientific_name|Tringa solitaria|
