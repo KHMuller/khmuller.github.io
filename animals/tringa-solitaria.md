@@ -9,23 +9,31 @@
 
 ### Common Names
 
-{: .common-names .en} Solitary Sandpiper
+{: .common-names .en}
+Solitary Sandpiper
 
-{: .common-names .es} Andarríos solitario
+{: .common-names .es}
+Andarríos solitario
 
-{: .common-names .de} Einsamer Wasserläufer
+{: .common-names .de}
+Einsamer Wasserläufer
 
-{: .common-names .fr} Chevalier solitaire
+{: .common-names .fr}
+Chevalier solitaire
 
 ### Description
 
-{: .description .en} A small shorebird which prefers freshwater places such as creeks and ponds or around Montreal in ponds created temporarily by melting ice and snow.
+{: .description .en}
+A small shorebird which prefers freshwater places such as creeks and ponds or around Montreal in ponds created temporarily by melting ice and snow.
 
-{: .description .es} Una pequeña ave costera que prefiere lugares de agua dulce como arroyos y estanques o alrededor de Montreal en estanques creados temporalmente al derretir hielo y nieve.
+{: .description .es}
+Una pequeña ave costera que prefiere lugares de agua dulce como arroyos y estanques o alrededor de Montreal en estanques creados temporalmente al derretir hielo y nieve.
 
-{: .description .de} Ein kleiner Watvogel, der Süßwasserorte wie Bäche und Teiche oder die Umgebung von Montreal in Teichen bevorzugt, die vorübergehend durch Schmelzen von Eis und Schnee entstehen.
+{: .description .de}
+Ein kleiner Watvogel, der Süßwasserorte wie Bäche und Teiche oder die Umgebung von Montreal in Teichen bevorzugt, die vorübergehend durch Schmelzen von Eis und Schnee entstehen.
 
-{: .description .fr} Un petit oiseau de rivage qui préfère les endroits d'eau douce comme les criques et les étangs ou autour de Montréal dans des étangs créés temporairement par la fonte de la glace et de la neige.
+{: .description .fr}
+Un petit oiseau de rivage qui préfère les endroits d'eau douce comme les criques et les étangs ou autour de Montréal dans des étangs créés temporairement par la fonte de la glace et de la neige.
 
 ### How to Identify
 
