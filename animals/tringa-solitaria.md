@@ -9,16 +9,16 @@
 
 ### Common Names
 
-{:.commonnames-en}
+{: .common_names .en}
 Solitary Sandpiper
 
-{:.commonnames-es}
+{: .common_names .es}
 Andarríos solitario
 
-{:.commonnames-de}
+{: .common_names .de}
 Einsamer Wasserläufer
 
-{:.commonnames-fr}
+{: .common_names .fr}
 Chevalier solitaire
 
 ### Description
