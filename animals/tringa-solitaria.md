@@ -1,6 +1,6 @@
 ---
-    title: A Personal Website
-    description: 
+    title: Solitary Sandpiper (Tringa solitaria)
+    description: A small shorebird which prefers freshwater places such as creeks and ponds or around Montreal in ponds created temporarily by melting ice and snow.
     layout: default
     canonical: https://khmuller.github.io/species/tringa-solitaria.html
 ---
