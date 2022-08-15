@@ -24,8 +24,7 @@ Chevalier solitaire
 ### Description
 
 {: .description .en}
-A small shorebird which prefers freshwater places such as creeks and ponds or around Montreal in ponds created temporarily by melting ice and snow. 
-A two liner
+A small shorebird which prefers freshwater places such as creeks and ponds or around Montreal in ponds created temporarily by melting ice and snow.
 
 {: .description .es}
 Una pequeña ave costera que prefiere lugares de agua dulce como arroyos y estanques o alrededor de Montreal en estanques creados temporalmente al derretir hielo y nieve.
