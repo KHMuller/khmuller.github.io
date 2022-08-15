@@ -2,25 +2,20 @@
     title: Solitary Sandpiper (Tringa solitaria)
     layout: default
 
-    id_species: tringa-solitaria
-    name_species: Solitary Sandpiper
-    scientific_name: Tringa solitaria
-    id_photo: khm-20190511-1640-1557578457
-    taxonomy: Charadriiformes|Scolopacidae
-    category: birds
-    tags: birds, shorebirds
 ---
 
 ## Solitary Sandpiper (Tringa solitaria)
 
 {: #profile}
-id_species|tringa-solitaria
-name_species|Solitary Sandpiper
-scientific_name|Tringa solitaria
-id_photo|khm-20190511-1640-1557578457
-taxonomy|Charadriiformes/Scolopacidae
-category|birds
-tags|birds, shorebirds
+|Field|Value|
+| ----------- | ----------- |
+|id_species|tringa-solitaria|
+|name_species|Solitary Sandpiper|
+|scientific_name|Tringa solitaria|
+|taxonomy|Charadriiformes/Scolopacidae|
+|id_photo|khm-20190511-1640-1557578457|
+|category|birds|
+|tags|birds, shorebirds|
 
 ### Common Names
 
