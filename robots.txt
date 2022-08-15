@@ -1,2 +1,2 @@
-User-agent: dotbot
+User-agent: *
 Disallow: /
