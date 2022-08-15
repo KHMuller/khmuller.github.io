@@ -7,6 +7,8 @@ canonical: https://khmuller.github.io
 
 ## A Personal Website
 
+Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below.
+
 ### Table of Content
 (In alphabetical order)
 
