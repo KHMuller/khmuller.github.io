@@ -24,16 +24,16 @@ Chevalier solitaire
 ### Description
 
 {: .description .en}
-A small shorebird which prefers freshwater bodies such as creeks and ponds, or in spring, temporary ponds created by melting ice and snow.
+A small shorebird which prefers freshwater bodies such as creeks and ponds or in spring temporary ponds created by melting ice and snow.
 
 {: .description .es}
-Una pequeña ave costera que prefiere lugares de agua dulce como arroyos y estanques o alrededor de Montreal en estanques creados temporalmente al derretir hielo y nieve.
+Una pequeña ave costera que prefiere lugares de agua dulce como arroyos y estanques o en primavera estanques temporales creado por el derretimiento del hielo y la nieve.
 
 {: .description .de}
 Ein kleiner Watvogel, der Süsswasser-Gewässer wie Bäche und Teiche bevorzugt, oder im Frühling die durch das Schmelzen von Eis und Schnee entstehenden Tümpel.
 
 {: .description .fr}
-Un petit oiseau de rivage qui préfère les endroits d'eau douce comme les criques et les étangs ou autour de Montréal dans des étangs créés temporairement par la fonte de la glace et de la neige.
+Un petit oiseau de rivage qui préfère les endroits d'eau douce comme les criques et les étangs ou en printemps des étangs créés temporairement créé par la fonte de la glace et de la neige.
 
 ### How to Identify
 
