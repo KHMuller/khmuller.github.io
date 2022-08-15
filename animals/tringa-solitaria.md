@@ -14,10 +14,11 @@
 
 ### Common Names
 
-- Solitary Sandpiper {: .en}
-- Andarríos solitario {: .es}
-- Einsamer Wasserläufer {: .de}
-- Chevalier solitaire {: .fr}
+{: .common-names }
+- {: .en } Solitary Sandpiper 
+- {: .es } Andarríos solitario 
+- {: .de } Einsamer Wasserläufer 
+- {: .fr } Chevalier solitaire 
 
 ### Description
 
