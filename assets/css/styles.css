@@ -112,6 +112,15 @@ aside {
         line-height: 1.1rem;
         background-color: whitesmoke;
     }
+
+    p.enhanced {
+        background-color: #008000;
+        padding: 0.3rem;
+        border-radius: 0.2rem;
+        color: white;
+        line-height: 1.4rem;
+        text-align: center;
+    }
 h2 {
     margin-top:0;
     font-size:1.3rem;
