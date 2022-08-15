@@ -14,11 +14,11 @@
     <header><div class="wrapper"><h1><a href="/">khmuller <span>github.io</span></a></h1></div></header>
     <figure class="banner">
       <picture>
-        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1200&amp;h=300&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 1x,https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=2400&amp;h=600&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 2x," media="(min-width: 960px)">
-        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=960&amp;h=320&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 1x,https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1920&amp;h=640&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 2x," media="(min-width: 768px)">
-        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=768&amp;h=384&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 1x,https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1536&amp;h=768&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 2x," media="(min-width: 520px)">
-        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=520&amp;h=390&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 1x,https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1040&amp;h=780&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy 2x," media="(max-width: 520px)">
-        <img src="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=520&amp;h=390&amp;fit=crop&amp;auto=format,compress&amp;crop=entropy" alt="{{ page.title }}">
+        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1200&amp;h=300&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.id_photo }} 1x,https://simaecnet.imgix.net/photos/{{ page.presentation }}.jpg?w=2400&amp;h=600&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }} 2x," media="(min-width: 960px)">
+        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=960&amp;h=320&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }} 1x,https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1920&amp;h=640&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }} 2x," media="(min-width: 768px)">
+        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=768&amp;h=384&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }} 1x,https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1536&amp;h=768&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }} 2x," media="(min-width: 520px)">
+        <source srcset="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=520&amp;h=390&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }} 1x,https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=1040&amp;h=780&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }} 2x," media="(max-width: 520px)">
+        <img src="https://simaecnet.imgix.net/photos/{{ page.id_photo }}.jpg?w=520&amp;h=390&amp;fit=crop&amp;auto=format,compress&amp;crop={{ page.presentation }}" alt="{{ page.title }}">
       </picture>
       <figcaption>
         {{ page.title }}

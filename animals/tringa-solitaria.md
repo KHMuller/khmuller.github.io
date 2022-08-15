@@ -1,7 +1,9 @@
 ---
     title: Solitary Sandpiper (Tringa solitaria)
     layout: animal
+    id_species: tringa-solitaria
     id_photo: khm-20190511-1640-1557578457
+    presentation: focalpoint&fp-x=0.5&fp-y=0.5
 ---
 
 ## Solitary Sandpiper (Tringa solitaria)
@@ -10,13 +12,11 @@
 ### Profile
 
 {: #profile}
-|id_species|tringa-solitaria|
-|name_species|Solitary Sandpiper|
-|scientific_name|Tringa solitaria|
-|taxonomy|Charadriiformes/Scolopacidae|
-|id_photo|khm-20190511-1640-1557578457|
-|category|birds|
-|tags|birds, shorebirds|
+|Name|Solitary Sandpiper|
+|Scientific Name|Tringa solitaria|
+|Category|Aves|
+|Taxonomy|Charadriiformes/Scolopacidae|
+|Tags|birds, shorebirds|
 
 ### Common Names
 
