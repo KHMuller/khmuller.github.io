@@ -23,7 +23,7 @@ Chevalier solitaire
 
 ### Description
 
-<div class="description">
+<div class="description" markdown="1">
 {:.en}
 A small shorebird which prefers freshwater places such as creeks and ponds or around Montreal in ponds created temporarily by melting ice and snow.
 
