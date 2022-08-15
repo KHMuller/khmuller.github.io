@@ -290,9 +290,10 @@ h2 {
     }			
     .warning {background-color: #e91e62;padding: 1rem; color:white; border-radius:0.1rem;}
     .warning a {background-color: #e91e62; color:white;}
-    picture {margin-bottom:1rem;display:block;}
+    picture {margin-bottom:0;display:block;}
     figure { width:100%;padding:0;margin:0;}
-    img {width:100%;}
+    img {width:100%; display:block}
+    figcaption { padding: 0.2rem; color: white; text-align: right;}
 
 
 
