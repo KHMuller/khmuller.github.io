@@ -28,10 +28,9 @@ canonical: https://khmuller.github.io/pending/
 
 ### Other Projects
 
-1. Move Fauna Flora from muuuh.com to faunaflora.photography and split species into animals/flowers
-2. macOS apps for Firestore data editing
-3. Streamline Video content maintenance including YouTube API v3
-4. Build iOS app for animal behavior in field data capture
-5. Build Firefox Extension to update Website
-6. Build Firefox Extension to learn vocabulary
-7. Challenge: Run a website/blog style using Google Drive Website
+1. macOS apps for Firestore data editing
+2. Streamline Video content maintenance including YouTube API v3
+3. Build iOS app for animal behavior in field data capture
+4. Build Firefox Extension to update Website
+5. Build Firefox Extension to learn vocabulary
+6. Challenge: Run a website/blog style using Google Drive Website
