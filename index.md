@@ -10,7 +10,7 @@ canonical: https://khmuller.github.io
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below.
 
 {:.enhanced}
-How can I use github to maintain faunaflora.photography species descriptions and text translations?
+How can I use git/github to maintain faunaflora.photography species descriptions and text translations?
 
 ### Table of Content
 (In alphabetical order)

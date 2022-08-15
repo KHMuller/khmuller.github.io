@@ -114,10 +114,10 @@ aside {
     }
 
     p.enhanced {
-        background-color: #008000;
+        background-color: #eaeaea;
         padding: 0.3rem;
         border-radius: 0.2rem;
-        color: white;
+        color: #222;
         line-height: 1.4rem;
         text-align: center;
     }
