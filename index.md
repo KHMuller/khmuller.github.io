@@ -10,7 +10,6 @@ canonical: https://khmuller.github.io
 ### Table of Content
 (In alphabetical order)
 
-- [About](/about/ "About khmuller.github.io") - About khmuller.github.io
 - [Git/Github](/github/ "Frequently Used Git/Github Commands") - Frequently Used Git/Github Commands
 - [Pending](/pending/ "Current and Future Projects") - Current and Future Projects
 
