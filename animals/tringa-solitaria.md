@@ -39,7 +39,7 @@ Un petit oiseau de rivage qui préfère les endroits d'eau douce comme les criqu
 
 ### How to Identify
 
-+-- {: .howtoidentify }
+{: .howtoidentify }
 {: .en}
 This species is very similar to Spotted Sandpiper. The Solitary Sandpiper has a darker beak and a more prominent eyering.
 
@@ -51,7 +51,6 @@ Diese Art ist dem Drosseluferläufer sehr ähnlich. Der Einsame Wasserläufer ha
 
 {: .fr}
 Cette espèce est très similaire au Chevalier grivelé. Le Chevalier solitaire a un bec plus foncé et un cercle oculaire plus proéminent.
-=--
 
 ### Where and When to Spot
 
