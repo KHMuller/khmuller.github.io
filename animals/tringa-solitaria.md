@@ -1,7 +1,7 @@
 ---
     title: Solitary Sandpiper (Tringa solitaria)
     layout: default
-    
+
     id_species: tringa-solitaria
     name_species: Solitary Sandpiper
     id_photo: khm-20190511-1640-1557578457
@@ -14,17 +14,10 @@
 
 ### Common Names
 
-{: .common-names .en}
-Solitary Sandpiper
-
-{: .common-names .es}
-Andarríos solitario
-
-{: .common-names .de}
-Einsamer Wasserläufer
-
-{: .common-names .fr}
-Chevalier solitaire
+- Solitary Sandpiper {: .en}
+- Andarríos solitario {: .es}
+- Einsamer Wasserläufer {: .de}
+- Chevalier solitaire {: .fr}
 
 ### Description
 
