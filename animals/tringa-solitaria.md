@@ -8,14 +8,6 @@
 
 ## Solitary Sandpiper (Tringa solitaria)
 
-### Description
-
-{: #description }
-- {: .en } Solitary Sandpiper is a small shorebird which prefers freshwater bodies such as creeks and ponds or in spring temporary ponds created by melting ice and snow.
-- {: .es } Andarríos solitario es una pequeña ave costera que prefiere lugares de agua dulce como arroyos y estanques o en primavera estanques creado por el derretimiento del hielo y la nieve.
-- {: .de } Einsamer Wasserläufer ist ein kleiner Watvogel, der Süsswasser-Gewässer wie Bäche und Teiche bevorzugt, oder im Frühling die durch das Schmelzen von Eis und Schnee entstehenden Tümpel.
-- {: .fr } Chevalier solitaire est un petit oiseau de rivage qui préfère les endroits d'eau douce comme les criques et les étangs ou en printemps des étangs  créé par la fonte de la glace et de la neige.
-
 ### Profile
 
 {: #profile}
@@ -32,6 +24,14 @@
 |es|Andarríos solitario| 
 |de|Einsamer Wasserläufer| 
 |fr|Chevalier solitaire|
+
+### Description
+
+{: #description }
+- {: .en } Solitary Sandpiper is a small shorebird which prefers freshwater bodies such as creeks and ponds or in spring temporary ponds created by melting ice and snow.
+- {: .es } Andarríos solitario es una pequeña ave costera que prefiere lugares de agua dulce como arroyos y estanques o en primavera estanques creado por el derretimiento del hielo y la nieve.
+- {: .de } Einsamer Wasserläufer ist ein kleiner Watvogel, der Süsswasser-Gewässer wie Bäche und Teiche bevorzugt, oder im Frühling die durch das Schmelzen von Eis und Schnee entstehenden Tümpel.
+- {: .fr } Chevalier solitaire est un petit oiseau de rivage qui préfère les endroits d'eau douce comme les criques et les étangs ou en printemps des étangs  créé par la fonte de la glace et de la neige.
 
 ### How to Identify
 
