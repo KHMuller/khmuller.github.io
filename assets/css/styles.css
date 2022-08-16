@@ -146,7 +146,7 @@ h2 {
     }			
 
     ul, ol {
-        padding: 0 1rem;
+        padding: 0;
         margin: 0.5rem 0;
     }
     ol { margin-left: 1rem;}
