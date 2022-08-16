@@ -298,7 +298,7 @@ h2 {
     table {width: 100%}
     td {padding: 0.4rem 0.2rem 0.4rem 0;
         border-bottom: 1px dotted black;}
-
+    td:first-child {width: 125px;}
     
     a[target="_blank"]::after {
         content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
