@@ -295,7 +295,9 @@ h2 {
     img {width:100%; display:block}
     figcaption { padding: 0.2rem; color: white; text-align: right;}
 
-
+    table {width: 100%}
+    td {padding: 0.4rem 0.2rem 0.4rem 0;
+        border-bottom: 1px dotted black;}
 
     
     a[target="_blank"]::after {
