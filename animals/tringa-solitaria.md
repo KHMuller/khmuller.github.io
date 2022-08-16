@@ -13,12 +13,18 @@
 
 {: #profile}
 |Name|Solitary Sandpiper|
-|Scientific Name|Tringa solitaria|
-|Category|Aves|
-|Taxonomy|Charadriiformes/Scolopacidae|
+|Scientific Name|__Tringa solitaria__|
+|Category|__Aves__|
+|Taxonomy|__Charadriiformes / Scolopacidae__|
 |Tags|birds, shorebirds|
 
 ### Common Names
+
+{: #common-names }
+|en|Solitary Sandpiper|
+|es|Andarríos solitario| 
+|de|Einsamer Wasserläufer| 
+|fr|Chevalier solitaire|
 
 {: #common-names }
 - {: .en } Solitary Sandpiper 
