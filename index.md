@@ -1,5 +1,5 @@
 ---
-title: A Personal Website
+title: Personal Website
 description: 
 layout: default
 canonical: https://khmuller.github.io
