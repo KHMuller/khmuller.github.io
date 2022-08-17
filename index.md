@@ -10,10 +10,10 @@ canonical: https://khmuller.github.io
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also testing content maintenance with markdown files.
 
 {:.enhanced}
-Testing hreflang meta link tag with faunaflora.photography - Feature added early Aug 17, 2022.
+Testing hreflang meta link tag with faunaflora.photography - Feature added Aug 17, 2022.
 
 {:.enhanced}
-How can I use git/github to maintain faunaflora.photography species descriptions and text translations? JSON or markdown? - Either simple editing (markdown) or structured data (JSON) but not both.
+How can I use github to maintain faunaflora.photography species descriptions and text translations? JSON or markdown? Either simple editing (markdown) or structured data (JSON) but not both.
 
 ### Table of Content
 (In alphabetical order)
