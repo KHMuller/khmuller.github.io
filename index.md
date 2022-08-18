@@ -1,6 +1,6 @@
 ---
 title: Personal Website
-description: 
+description: Sandbox to prepare content for one of my main websites.
 layout: default
 canonical: https://khmuller.github.io
 ---
