@@ -10,9 +10,6 @@ canonical: https://khmuller.github.io
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also testing content maintenance with markdown files.
 
 {:.enhanced}
-Testing hreflang meta link tag with faunaflora.photography - Feature added Aug 17, 2022.
-
-{:.enhanced}
 How can I use github to maintain faunaflora.photography species descriptions and text translations? JSON or markdown? Either simple editing (markdown) or structured data (JSON) but not both.
 
 {:.enhanced}
@@ -30,3 +27,6 @@ Battling with schematic how to create and maintain content translated into diffe
 - [muuuh.com](https://muuuh.com "Muuuh Wildlife Photography")
 - [simaec.net](https://www.simaec.net "Web Publishing")
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico")
+
+### Updates
+- **Aug 17, 2020 ** - Added hreflang meta link tag with faunaflora.photography 
