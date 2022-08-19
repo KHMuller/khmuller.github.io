@@ -9,13 +9,13 @@ canonical: https://khmuller.github.io
 
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also testing content maintenance with markdown files.
 
-{:.enhanced}
-How can I use github to maintain faunaflora.photography species descriptions and text translations? JSON or markdown? Either simple editing (markdown) or structured data (JSON) but not both.
+{: .enhanced}
+How can I use github to maintain faunaflora.photography species descriptions and text translations? JSON or markdown? Either simple editing (markdown) or structured data (JSON) but not both. Obsidian?.
 
-{:.enhanced}
+{: .enhanced}
 Battling with schematic how to create and maintain content translated into different languages (de/en/es/fr). Goal is to achieve up-to-date translations when modifying base language (en).
 
-{:.enhanced}
+{: .enhanced}
 Mobile First
 
 ### In Preparation
