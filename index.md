@@ -17,7 +17,7 @@ Battling with schematic how to create and maintain content translated into diffe
 
 ### In Preparation
 
-- Client Side Rendering, Server Side Rendering, Dynamic Rendering. Will go under Website Development / Architecture.
+- Client Side Rendering, Server Side Rendering, Dynamic Rendering. Will go under SN / Website Development / Architecture.
 
 ### Table of Contents
 
