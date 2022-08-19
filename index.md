@@ -29,4 +29,4 @@ Battling with schematic how to create and maintain content translated into diffe
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico")
 
 ### Updates
-- **Aug 17, 2020 ** - Added hreflang meta link tag with faunaflora.photography 
+- **Aug 17, 2020** - Added hreflang meta link tag with faunaflora.photography 
