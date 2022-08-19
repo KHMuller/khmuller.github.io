@@ -167,9 +167,6 @@ h2 {
         width: 1rem; 
         margin-left: -1rem; 
     }
-    .grid-container > div:last-child > ul {padding:0;}
-    .grid-container > div:last-child > ol {margin-left:0;}
-    ul > li > strong {display: inline-block; width: 6rem;}
 
     p {
         letter-spacing: 1px;
