@@ -11,7 +11,8 @@ Used as sandbox to prepare new content which, once finished, will be published i
 
 ### In Preparation
 
-- Client Side Rendering, Server Side Rendering, Dynamic Rendering. Will go under SN / Website Development / Architecture.
+- Web Page Rendering: Client Side Rendering, Server Side Rendering, Dynamic Rendering. Will go under SN / Website Development / Architecture.
+- Multiple Languages: Collection of Thoughts around publishing content in multiple languages.
 
 ### Table of Contents
 
