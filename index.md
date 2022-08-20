@@ -7,12 +7,12 @@ canonical: https://khmuller.github.io
 
 ## Personal Website
 
-Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also testing content maintenance with markdown files.
+Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also testing content maintenance with markdown files and testing github pages.
 
 ### In Preparation
 
 - Web Page Rendering: Client Side Rendering, Server Side Rendering, Dynamic Rendering. Will go under SN / Website Development / Architecture.
-- Multiple Languages: Collection of Thoughts around publishing content in multiple languages.
+- Multiple Languages: Collection of thoughts around publishing content in multiple languages.
 
 ### Table of Contents
 
