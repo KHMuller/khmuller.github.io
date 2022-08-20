@@ -7,6 +7,12 @@ canonical: https://khmuller.github.io/github/
 
 ## Frequently Used Git/Github Commands
 
+### How to Connect Local Folder to Private GitHub Repository
+I use this approach when I want to maintain a backup of a folder which I later can easily clone on another computer.
+
+- Create private repository in GitHub
+
+
 ### Delete file from current branch
 Deletes a file from local and remote repository.
 
