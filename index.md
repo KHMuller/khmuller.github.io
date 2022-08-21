@@ -13,6 +13,7 @@ Used as sandbox to prepare new content which, once finished, will be published i
 
 - Web Page Rendering: Client Side Rendering, Server Side Rendering, Dynamic Rendering. Will go under SN / Website Development / Architecture.
 - Multiple Languages: Collection of thoughts around publishing content in multiple languages.
+- Programming Pitfalls: Collection of nasty errors in programming (python, javascript) with unexpected results.
 
 ### Table of Contents
 
