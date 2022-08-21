@@ -28,6 +28,6 @@ Used as sandbox to prepare new content which, once finished, will be published i
 - [simaec.net](https://www.simaec.net "Web Publishing")
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico")
 
-### Updates
+### Updates w/ Potential SEO Impact
 - **Aug 20, 2020** - Removed all pages of species not yet completed. Remaining 645 pages. 
 - **Aug 17, 2020** - Added hreflang meta link tag with faunaflora.photography 
