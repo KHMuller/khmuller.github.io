@@ -7,7 +7,7 @@ canonical: https://khmuller.github.io
 
 ## Personal Website
 
-Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also testing content maintenance with markdown files and testing github pages.
+Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also, testing content maintenance with markdown files and github pages.
 
 ### In Preparation
 
