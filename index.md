@@ -9,11 +9,8 @@ canonical: https://khmuller.github.io
 
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also, testing content maintenance with markdown files and github pages.
 
-### In Preparation
-
-- Web Page Rendering: Client Side Rendering, Server Side Rendering, Dynamic Rendering. Will go under SN / Website Development / Architecture.
-- Multiple Languages: Collection of thoughts around publishing content in multiple languages.
-- Programming Pitfalls: Collection of nasty errors in programming (python, javascript) with unexpected results.
+{: .enhanced}
+Getting obsessed with the opportunities provided by using Obsidian
 
 ### Table of Contents
 
