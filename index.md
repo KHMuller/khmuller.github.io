@@ -24,5 +24,7 @@ Getting obsessed with the opportunities provided by using Obsidian
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico")
 
 ### Updates w/ Potential SEO Impact
-- **Aug 20, 2020** - Removed all pages of species not yet completed. Remaining 645 pages. 
-- **Aug 17, 2020** - Added hreflang meta link tag with faunaflora.photography 
+- **Sep 2, 2022** - Updated SN GatsbyJS article, curious how long it takes to escape "Crawled - currently not indexed" container. 
+- **Sep 1, 2022** - Dropped Fauna Flora section from muuuh.com and replaced with a photography/videography focused, limited number of pages.
+- **Aug 20, 2022** - Fauna Flora Photography. Removed all pages of species not yet completed. Remaining 645 pages. 
+- **Aug 17, 2022** - Added hreflang meta link tag with faunaflora.photography 
