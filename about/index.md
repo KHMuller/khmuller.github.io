@@ -11,6 +11,13 @@ This site is hosted on Github Pages and serves as example for the short guide ho
 
 To contact me, please send an email to "karlheinz at gmail dot com". I live in Montreal, Canada.
 
+### Ranking Criteria
+
+- **Accessibility**: Availability and comfort of public transportation to the park
+- **Variety**: Habitats, variety in species, seasonality
+- **Photography**: Attractive for a photographer? Approaching subjects, video recording, disturbances and distractions
+
+Giving -1, 0 or +1 point for disadvantageous, neutral, advantageous
 
 | Park | Accessibility | Variety | Photography | Total |
 | --- | --- | --- | --- | --- |
