@@ -12,19 +12,19 @@ This site is hosted on Github Pages and serves as example for the short guide ho
 To contact me, please send an email to "karlheinz at gmail dot com". I live in Montreal, Canada.
 
 
-| Park | Accessibility | Variety | Seasonality | Popularity | Photography | Total |
-| --- | --- | --- | --- | --- | --- | --- |
-| [[Belvédère Outremont]] | 1 | 0 | 1 | 0 | 0 | 2 |
-| [[Jardin Botanique de Montréal]] | 1 | 1 | 1 | -1 | 1 | 3 |
-| [[Champ des Possibles]] | 1 | 0 | -1 | 0 | 1 | 1 |
-| [[Parc Angrignon]] | 1 | 1 | 1 | -1 | 0 | 2 |
-| [[Parc Mont-Royal]] | 1 | 0 | 1 | -1 | 0 | 1 |
-| [[Parc Île Bizard]] | -1 | 0 | 1 | 1 | 0 | 1 |
-| [[Parc Île-de-la-Visitation]] | 0 | 1 | 1 | -1 | -1 | 0 |
-| [[Parc Nature Pointe aux Prairies]] | -1 | 1 | 1 | 1 | 1 | 3 |
-| [[Parc des Rapides]] | 0 | 0 | 0 | -1 | 0 | -1 |
-| [[Île Saint Bernard]] | -1 | 1 | 1 | 0 | 0 | 1 |
-| [[Parc Bernard-Landry]] | 1 | 1 | 1 | -1 | 1 | 3 |
-| [[Parc de la Cité]] | -1 | 1 | 1 | 0 | -1 | 0 |
-| [[Parc de la Frayère]] | -1 | 1 | 0 | 1 | 1 | 2 |
-| [[Parc Îles-de-Boucherville]] | -1 | 1 | 1 | 0 | 0 | 1 |
+| Park | Accessibility | Variety | Photography | Total |
+| --- | --- | --- | --- | --- |
+| [[Belvédère Outremont]] | 1 | 0 | 0 | 1 |
+| [[Jardin Botanique de Montréal]] \*| 1 | 1 | 1 | 3 |
+| [[Champ des Possibles]] | 1 | -1 | 0 | 0 |
+| [[Parc Angrignon]] | 1 | 1 | 1 | 3 |
+| [[Parc Mont-Royal]] | 1 | 0 | 0 | 1 |
+| [[Parc Île Bizard]] | -1 | 0 | 1 | 0 |
+| [[Parc Île-de-la-Visitation]] | 0 | 1 | 0 | 1 |
+| [[Parc Nature Pointe aux Prairies]] \*| 0 | 1 | 1 | 2 |
+| [[Parc des Rapides]] | 0 | 1 | 0 | 1 |
+| [[Île Saint Bernard]] | -1 | 1 | 1 | 1 |
+| [[Parc Bernard-Landry]] \*| 1 | 1 | 1 | 3 |
+| [[Parc de la Cité]] | -1 | 0 | 0 | -1 |
+| [[Parc de la Frayère]] | -1 | 1 | 1 | 1 |
+| [[Parc Îles-de-Boucherville]] | -1 | 1 | 0 | 1 |
