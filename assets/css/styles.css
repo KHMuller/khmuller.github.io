@@ -114,12 +114,12 @@ aside {
     }
 
     p.enhanced {
-        background-color: #eaeaea;
+        background-image: linear-gradient(to right, #1b3e67, #71629a);
         padding: 0.3rem;
         border-radius: 0.2rem;
-        color: #222;
         line-height: 1.4rem;
         text-align: center;
+        color: white;
     }
 h2 {
     margin-top:0;
