@@ -12,7 +12,7 @@ Used as sandbox to prepare new content which, once finished, will be published i
 {: .enhanced}
 Getting obsessed with the opportunities provided by using Obsidian
 
-Working YT Videos for each park. How to get there, what to see and general photography tips.
+Playing with the idea to merge muuuh.com with faunaflora.photography because of the difficulty to get organic positioning with muuuh.com.
 
 ### Websites
 
