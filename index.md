@@ -10,9 +10,9 @@ canonical: https://khmuller.github.io
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also, testing content maintenance with markdown files and github pages.
 
 {: .enhanced}
-Getting obsessed with the opportunities provided by using Obsidian
+Optimizing audio. A lot of knobs to deal with!
 
-Playing with the idea to merge muuuh.com with faunaflora.photography because of the difficulty to get organic positioning with muuuh.com.
+Excited about extending muuuh.com the collections of photos and videos collections with a collection of sounds!
 
 ### Websites
 
