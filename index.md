@@ -12,7 +12,7 @@ Used as sandbox to prepare new content which, once finished, will be published i
 {: .enhanced}
 Optimizing audio. A lot of knobs to deal with!
 
-Excited about extending muuuh.com the collections of photos and videos collections with a collection of sounds!
+Excited about extending Muuuh's collections of photos and videos with a collection of sounds!
 
 ### Websites
 
