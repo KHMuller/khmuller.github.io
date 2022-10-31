@@ -10,7 +10,7 @@ canonical: https://khmuller.github.io
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also, testing content maintenance with markdown files and github pages.
 
 {: .enhanced}
-Optimizing audio. A lot of knobs to deal with!
+Excited about the coming project "Sound Recordings"
 
 Excited about extending Muuuh's collections of photos and videos with a collection of sounds!
 
