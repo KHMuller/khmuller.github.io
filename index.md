@@ -16,12 +16,12 @@ Excited about extending Muuuh's collections of photos and videos with a collecti
 
 ### Websites &amp; YouTube Channels
 
-- [faunaflora.photography](https://faunaflora.photography "Fauna Flora Photography")
-- [muuuh.com](https://muuuh.com "Muuuh Wildlife Photography")
-- [simaec.net](https://www.simaec.net "Web Publishing")
-- [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico")
-- [Muuuh (YT)](https://youtube.com/@Muuuh "Muuuh Wildlife Photography")
-- [KarlHeinzMuller (YT)](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller")
+- [muuuh.com](https://muuuh.com "Muuuh Wildlife Photography") - About wildlife photography and video recordings.
+- [Muuuh (YT)](https://youtube.com/@Muuuh "Muuuh Wildlife Photography") - Videos about animal behavior and nature documentaries 
+- [faunaflora.photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
+- [simaec.net](https://www.simaec.net "Web Publishing") - How to build and promote a website.
+- [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
+- [KarlHeinzMuller (YT)](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller") - Experimental platform
 
 ### Updates w/ Potential SEO Impact
 - **Sep 21, 2022** - Dropped bot instructions from html head in all park pages muuuh.com
