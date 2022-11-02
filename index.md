@@ -14,13 +14,14 @@ Excited about the coming project "Sound Recordings"
 
 Excited about extending Muuuh's collections of photos and videos with a collection of sounds!
 
-### Websites
+### Websites &amp; YouTube Channels
 
 - [faunaflora.photography](https://faunaflora.photography "Fauna Flora Photography")
 - [muuuh.com](https://muuuh.com "Muuuh Wildlife Photography")
 - [simaec.net](https://www.simaec.net "Web Publishing")
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico")
-- YT Channels [KarlHeinzMuller](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller") and [Muuuh](https://youtube.com/@Muuuh "Muuuh Wildlife Photography")
+- [Muuuh (YT)](https://youtube.com/@Muuuh "Muuuh Wildlife Photography")
+- [KarlHeinzMuller (YT)](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller")
 
 ### Updates w/ Potential SEO Impact
 - **Sep 21, 2022** - Dropped bot instructions from html head in all park pages muuuh.com
