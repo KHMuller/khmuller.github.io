@@ -16,9 +16,9 @@ Excited about extending Muuuh's collections of photos and videos with a collecti
 
 ### Websites &amp; YouTube Channels
 
-- [muuuh.com](https://muuuh.com "Muuuh Wildlife Photography") - About wildlife photography and video recordings.
-- [Muuuh (YT)](https://youtube.com/@Muuuh "Muuuh Wildlife Photography") - Videos about animal behavior and nature documentaries 
-- [faunaflora.photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
+- [Muuuh Wildlife Photography](https://muuuh.com "Muuuh Wildlife Photography") - About wildlife photography and video recordings.
+- [Muuuh on Youtube](https://youtube.com/@Muuuh "Muuuh Wildlife Photography") - Videos about animal behavior and nature documentaries 
+- [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
 - [simaec.net](https://www.simaec.net "Web Publishing") - How to build and promote a website.
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
 - [KarlHeinzMuller (YT)](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller") - Experimental platform
