@@ -10,9 +10,9 @@ canonical: https://khmuller.github.io
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also, testing content maintenance with markdown files and github pages.
 
 {: .enhanced}
-Excited about the coming project "Sound Recordings"
+Starting soon: "Project 2023" and "Creatures in a Pond"
 
-Excited about extending Muuuh's collections of photos and videos with a collection of sounds!
+Excited about extending Muuuh's collections of photos and videos with field sound recordings!
 
 ### Websites &amp; YouTube Channels
 
