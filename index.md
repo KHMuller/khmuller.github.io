@@ -36,10 +36,12 @@ Not sure how but I got access to ChatGPT and exploring it. Puzzled how an algori
 - Repeat the process until the task is completed.
 
 ### Updates w/ Potential SEO Impact
-- **Jan 6, 2023** - Started to use OpenAI for inspirations.
+- **Jan 18, 2023** - Changed titles and descriptions of all stream videos about parks (6).
+- **Jan 18, 2023** - Added embedded Stream Video to a selection of parks.
+- **Jan 6, 2023**  - Started to use OpenAI for inspirations.
 - **Sep 21, 2022** - Dropped bot instructions from html head in all park pages muuuh.com.
 - **Sep 18, 2022** - Added maps and photography tips to park pages in muuuh.com.
-- **Sep 2, 2022** - Updated SN GatsbyJS article, curious how long it takes to escape "Crawled - currently not indexed" container. 
-- **Sep 1, 2022** - Dropped Fauna Flora section from muuuh.com and replaced with a limited list of species with focus on photography and video recording.
+- **Sep 2, 2022**  - Updated SN GatsbyJS article, curious how long it takes to escape "Crawled - currently not indexed" container. 
+- **Sep 1, 2022**  - Dropped Fauna Flora section from muuuh.com and replaced with a limited list of species with focus on photography and video recording.
 - **Aug 20, 2022** - Fauna Flora Photography. Removed all pages of species not yet completed. Remaining 645 pages. 
 - **Aug 17, 2022** - Added hreflang meta link tag with faunaflora.photography
