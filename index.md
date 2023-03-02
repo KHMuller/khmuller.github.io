@@ -52,8 +52,3 @@ ChatGPT: "I apologize for the confusion and any inaccuracies in my previous resp
 - **Sep  1, 2022** - Dropped Fauna Flora section from muuuh.com and replaced with a limited list of species with focus on photography and video recording.
 - **Aug 20, 2022** - Fauna Flora Photography. Removed all pages of species not yet completed. Remaining 645 pages. 
 - **Aug 17, 2022** - Added hreflang meta link tag with faunaflora.photography
-
-## What Now?
-
-[About](/about/ "About")
-[Recipes](/recipes/ "Recipes")
