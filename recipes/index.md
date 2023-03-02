@@ -4,9 +4,10 @@ description: A collection of recipes consisting of one recipe.
 layout: default
 canonical: https://khmuller.github.io/recipes/
 ---
+
 # Recipes
 
-A collection of recipes consisting of one recipe ... for now! 😊
+A collection of recipes consisting of one recipe ... for now!
 
 ## Recipe: Baking Bread at Home
 
