@@ -23,8 +23,6 @@ ChatGPT: "I apologize for the confusion and any inaccuracies in my previous resp
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
 - [simaec.net](https://www.simaec.net "Web Publishing") - How to build and promote a website.
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
-
-
 - [Muuuh on Youtube](https://youtube.com/@Muuuh "Muuuh Wildlife Photography") - Videos about animal behavior and nature documentaries 
 - [KarlHeinzMuller (YT)](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller") - Experimental platform
 
