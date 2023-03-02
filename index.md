@@ -20,10 +20,11 @@ ChatGPT: "I apologize for the confusion and any inaccuracies in my previous resp
 ### Websites &amp; YouTube Channels
 
 - [Muuuh Wildlife Photography](https://muuuh.com "Muuuh Wildlife Photography") - About wildlife photography and video recordings.
-- [Muuuh on Youtube](https://youtube.com/@Muuuh "Muuuh Wildlife Photography") - Videos about animal behavior and nature documentaries 
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
 - [simaec.net](https://www.simaec.net "Web Publishing") - How to build and promote a website.
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
+
+- [Muuuh on Youtube](https://youtube.com/@Muuuh "Muuuh Wildlife Photography") - Videos about animal behavior and nature documentaries 
 - [KarlHeinzMuller (YT)](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller") - Experimental platform
 
 ### What is the "Pomodoro Technique"?
@@ -38,6 +39,8 @@ ChatGPT: "I apologize for the confusion and any inaccuracies in my previous resp
 - Repeat the process until the task is completed.
 
 ### Dates, Updates w/ Potential SEO Impact
+
+- **Mar  1, 2023** - Added emojis to the head title of a selected number of articles in muuuh.com.
 - **Feb 11, 2023** - Updated parks pages in muuuh.com. Added info about author, last mod, expertise.
 - **Jan 18, 2023** - Changed titles and descriptions of all stream videos about parks (6).
 - **Jan 18, 2023** - Added embedded Stream Video to a selection of parks.
