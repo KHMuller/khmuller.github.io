@@ -10,13 +10,11 @@ canonical: https://khmuller.github.io
 Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also, testing content maintenance with markdown files and github pages.
 
 {: .enhanced}
-Excited about extending Muuuh's collections of photos and videos with field sound recordings!
+Excited about extending Muuuh's collections of photos and videos with in field sound recordings!
 
 ## ChatGPT
 
-"I apologize for the confusion and any inaccuracies in my previous responses. You are correct that Catharus ustulatus is Swainson's Thrush, and that the Hermit Thrush (Catharus guttatus) is also known as the Dwarf Thrush. I am a machine learning model and I can make mistakes." 
-
-**Be aware that ChatGPT doesn't get right the facts**!
+"I apologize for the confusion and any inaccuracies in my previous responses. You are correct that Catharus ustulatus is Swainson's Thrush, and that the Hermit Thrush (Catharus guttatus) is also known as the Dwarf Thrush. I am a machine learning model and I can make mistakes." **Be aware that ChatGPT doesn't get right the facts**!
 
 ## Websites &amp; YouTube Channels
 
@@ -27,20 +25,10 @@ Excited about extending Muuuh's collections of photos and videos with field soun
 - [Muuuh Wildlife Photography on YT](https://youtube.com/@Muuuh "Muuuh Wildlife Photography on YT") - Videos about animal behavior and nature 
 - [Karl-Heinz Müller on YT](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller on YT") - Experimental platform
 
-## What is the "Pomodoro Technique"?
-
-**The Pomodoro Technique** is a time management method developed by [Francesco Cirillo](https://francescocirillo.com/) in the late 1980s. It involves working in short, focused bursts followed by short breaks. Here's how it works:
-
-- Choose a task you want to work on.
-- Set a timer for 25 minutes (this is known as a "pomodoro").
-- Work on the task for the full 25 minutes, without distractions.
-- When the timer goes off, take a 5-minute break.
-- After four "pomodoros," take a longer break (15-30 minutes).
-- Repeat the process until the task is completed.
-
 ## Dates, Updates w/ Potential SEO Impact
 
 - **Mar  1, 2023** - Added emojis to the head title of a selected number of articles in muuuh.com.
+- **Feb 23, 2023** - Fixed an issue with IMGIX robots.txt having been incorrect.
 - **Feb 11, 2023** - Updated parks pages in muuuh.com. Added info about author, last mod, expertise.
 - **Jan 18, 2023** - Changed titles and descriptions of all stream videos about parks (6).
 - **Jan 18, 2023** - Added embedded Stream Video to a selection of parks.
