@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Page Not Found</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
+  </head>
+  <body>
+		<header>
+			<div class="wrapper">
+				<h1>khmuller <span>WEB PUBLISHING</span></h1>
+			</div>
+		</header>    
+    <main>
+        <div class="wrapper">
+          <h2>Used to test a specific json</h2>
+          <p>Is this published as it is?</p>
+          <p><a href="/">Click Here</a> to go to the Home Page</p>
+        </div>
+    </main> 
+    <footer><div class="wrapper"><p><a href="/about/">About</a></p></div></footer>
+    <script type="text/javascript">
+
+    
+      try {
+          fetch('https://pro.vacationexpress.com/media/json/VECONTACTS.json')
+              .then(response => response.json())
+              .then(data => {
+                  const convertedData = data.reduce((accumulator, item) => ({...accumulator, [item.k]: item.v}), {});
+                  getSha256('webmaster@discoverymexico.com')
+                      .then(hash => hash.toUpperCase())
+                      .then(hash => {
+                          if (convertedData[hash]) { newCustomerId = convertedData[hash]; }
+                      })
+                      .catch(error => { console.log(error); });
+              })
+              .catch(error => { console.log(error); });
+      } catch (error) { console.log(error); }
+    
+  
+    </script>
+  </body>
+</html>
