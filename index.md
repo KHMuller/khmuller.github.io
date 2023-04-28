@@ -27,6 +27,7 @@ Excited about extending Muuuh's collections of photos and videos with in field s
 
 ## Dates, Updates w/ Potential SEO Impact
 
+- **Apr 26, 2023** - Started to add multi-language descriptions to videos on YT (EN/ES/FR/DE).
 - **Mar  1, 2023** - Added emojis to the head title of a selected number of articles in muuuh.com.
 - **Feb 23, 2023** - Fixed an issue with IMGIX robots.txt having been incorrect.
 - **Feb 11, 2023** - Updated parks pages in muuuh.com. Added info about author, last mod, expertise.
