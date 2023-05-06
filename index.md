@@ -27,6 +27,7 @@ Excited about extending Muuuh's collections of photos and videos with in field s
 
 ## Dates, Updates w/ Potential SEO Impact
 
+- **May  3, 2023** - Starting to replace all thumbnails of videos with edited stills from the video.
 - **May  2, 2023** - All videos are now Video Language not applicable / Streams Video Language English.
 - **Mar  1, 2023** - Added emojis to the head title of a selected number of articles in muuuh.com.
 - **Feb 23, 2023** - Fixed an issue with IMGIX robots.txt having been incorrect.
