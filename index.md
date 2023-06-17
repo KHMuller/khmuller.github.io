@@ -29,18 +29,18 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
-|Jun 15, 2023|Started to add lead video to faunaflora.photography species page.|
-|May  3, 2023|Starting to replace all thumbnails of videos with edited stills from the video.|
-|May  2, 2023|All videos are now Video Language not applicable / Streams Video Language English.|
-|Mar  1, 2023|Added emojis to the head title of a selected number of articles in muuuh.com.|
-|Feb 23, 2023|Fixed an issue with IMGIX robots.txt having been incorrect.|
-|Feb 11, 2023|Updated parks pages in muuuh.com. Added info about author, last mod, expertise.|
-|Jan 18, 2023|Changed titles and descriptions of all stream videos about parks (6).|
-|Jan 18, 2023|Added embedded Stream Video to a selection of parks.|
-|Jan  6, 2023|Started to use OpenAI for inspirations.|
-|Sep 21, 2022|Dropped bot instructions from html head in all park pages muuuh.com.|
-|Sep 18, 2022|Added maps and photography tips to park pages in muuuh.com.|
-|Sep  2, 2022|Updated SN GatsbyJS article, curious how long it takes to escape "Crawled - currently not indexed" container.|
-|Sep  1, 2022|Dropped Fauna Flora section from muuuh.com and replaced with a limited list of species with focus on photography and video recording.|
-|Aug 20, 2022|Fauna Flora Photography. Removed all pages of species not yet completed. Remaining 645 pages.| 
-|Aug 17, 2022|Added hreflang meta link tag with faunaflora.photography.|
+|2023-06-05|Started to add lead video to faunaflora.photography species page|
+|2023-05-03|Starting to replace all thumbnails of videos with edited stills from the video|
+|2023-05-02|All videos are now Video Language not applicable / Streams Video Language English|
+|2023-05-01|Added emojis to the head title of a selected number of articles in muuuh.com|
+|2023-02-23|Fixed an issue with IMGIX robots.txt having been incorrect|
+|2023-02-11|Updated parks pages in muuuh.com. Added info about author, last mod, expertise|
+|2023-01-18|Changed titles and descriptions of all stream videos about parks (6)|
+|2023-01-18|Added embedded Stream Video to a selection of parks|
+|2023-01-06|Started to use OpenAI for inspirations|
+|2022-09-21|Dropped bot instructions from html head in all park pages muuuh.com|
+|2022-09-18|Added maps and photography tips to park pages in muuuh.com|
+|2022-09-02|Updated SN GatsbyJS article, curious how long it takes to escape "Crawled - currently not indexed" container|
+|2022-09-01|Dropped Fauna Flora section from muuuh.com and replaced with a limited list of species with focus on photography and video recording|
+|2022-08-20|Fauna Flora Photography. Removed all pages of species not yet completed. Remaining 645 pages| 
+|2022-08-17|Added hreflang meta link tag with faunaflora.photography|
