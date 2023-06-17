@@ -297,6 +297,7 @@ h2 {
         padding: 1rem;
         margin: 1rem 0;
         width: 100%;
+        border:1px solid black;
     }
     td {padding: 0.4rem 0.2rem 0.4rem 0;
         border-top: 1px dotted black;}
