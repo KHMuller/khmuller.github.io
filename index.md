@@ -16,7 +16,6 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 - [simaec.net](https://www.simaec.net "Web Publishing") - How to build and promote a website.
 - [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
 - [Muuuh Nature and Wildlife on YT](https://youtube.com/@Muuuh "Muuuh Nature and Wildlife on YT") - Videos about animal behavior and nature 
-- [Karl-Heinz Müller on YT](https://youtube.com/@KarlHeinzMuller "Karl-Heinz Müller on YT") - Experimental platform
 
 ## Dates, Updates w/ Potential SEO Impact
 
