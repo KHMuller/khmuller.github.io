@@ -209,8 +209,6 @@ h2 {
         border-radius: 0.2rem;
     }
     main a {
-        color: black;
-        background-color: #cfd8dc;
         padding: 0 0.5rem; 
         display: inline-block;
         white-space: nowrap;
