@@ -17,6 +17,7 @@ git push
 ~~~
 
 ### Delete all history of a git repository
+
 Delete repository history and hence clean up tracking of deleted files. This is achieved by creating a branch without history, deleting the original branch and then rename the new branch with the old name.
 
 ~~~bash
@@ -28,4 +29,5 @@ git branch -m main
 git push -f origin main
 ~~~
 
-
+{: .enhanced}
+Markdown for paragraph with assigned class.

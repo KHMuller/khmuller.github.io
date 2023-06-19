@@ -1,20 +1,13 @@
 ---
 title: Personal Website
-description: Sandbox to prepare content for one of my main websites.
+description: Exploring the principles of evolutionary biology, self-awareness, empathy, and creativity.
 layout: default
 canonical: https://khmuller.github.io
 ---
 
 # Personal Website
 
-Used as sandbox to prepare new content which, once finished, will be published in one of my websites listed below. Also, testing content maintenance with markdown files and github pages.
-
-{: .enhanced}
 Exploring the principles of evolutionary biology, self-awareness, empathy, and creativity and, along the way, hoping to inspire others to play an active role in nature preservations.
-
-## ChatGPT
-
-"I apologize for the confusion and any inaccuracies in my previous responses. You are correct that Catharus ustulatus is Swainson's Thrush, and that the Hermit Thrush (Catharus guttatus) is also known as the Dwarf Thrush. I am a machine learning model and I can make mistakes." **Be aware that ChatGPT doesn't get right the facts**!
 
 ## Websites &amp; YouTube Channels
 
