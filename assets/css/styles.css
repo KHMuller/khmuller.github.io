@@ -208,13 +208,6 @@ h2 {
         margin-bottom: 0.2rem;
         border-radius: 0.2rem;
     }
-    main a {
-        padding: 0 0.5rem; 
-        display: inline-block;
-        white-space: nowrap;
-        border-radius: 0.2rem;
-        margin-bottom:1px;
-    }
     main a:hover { text-decoration:none; }
 
     main h4 a {

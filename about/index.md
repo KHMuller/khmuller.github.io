@@ -5,7 +5,7 @@ layout: default
 canonical: https://khmuller.github.io/about/
 ---
 
-## About
+## About Karl-Heinz Müller
 
 Initially planned as test to look into web sites hosted on Github pages, I continue maintaining this website as sandbox to develop new ideas which may later be published in one of my websites in production.
 
