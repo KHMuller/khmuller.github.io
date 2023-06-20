@@ -21,8 +21,9 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
-|2023-06-18|Updated species page in muuuh.com. Now with focus on photography.|
+|2023-06-18|Updated species page in muuuh.com. Now with focus on photography|
 |2023-06-05|Started to add lead video to faunaflora.photography species page|
+|2023-06-05|Switching embedded YT videos from no cookie to API version|
 |2023-05-03|Starting to replace all thumbnails of videos with edited stills from the video|
 |2023-05-02|All videos are now Video Language not applicable / Streams Video Language English|
 |2023-05-01|Added emojis to the head title of a selected number of articles in muuuh.com|
