@@ -13,8 +13,8 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 - [Muuuh Nature and Wildlife](https://muuuh.com "Muuuh Nature and Wildlife") - About wildlife photography and video recordings.
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
-- [simaec.net](https://www.simaec.net "Web Publishing") - How to build and promote a website.
-- [discoverymexico.com.mx](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
+- [Simaec.NET](https://www.simaec.net "Web Publishing") - How to build and promote a website.
+- [Discovery Mexico](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
 - [Muuuh Nature and Wildlife on YT](https://youtube.com/@Muuuh "Muuuh Nature and Wildlife on YT") - Videos about animal behavior and nature 
 
 ## Dates, Updates w/ Potential SEO Impact
