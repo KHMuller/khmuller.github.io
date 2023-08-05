@@ -9,6 +9,8 @@ canonical: https://khmuller.github.io
 
 Exploring the principles of evolutionary biology, self-awareness, empathy, and creativity and, along the way, hoping to inspire others to play an active role in nature preservations.
 
+Planing to update the majority of YT shorts so they fit the new format and un-listing the older version. YT shorts are not getting the channel closer to monetization, thus taking advantage of branding impact with the new format. Can I see an increase in direct visits in muuuh.com?
+
 ## Websites &amp; YouTube Channels
 
 - [Muuuh Nature and Wildlife](https://muuuh.com "Muuuh Nature and Wildlife") - About wildlife photography and video recordings.
