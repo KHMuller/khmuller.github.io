@@ -11,6 +11,8 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 Planing to update the majority of YT shorts so they fit the new format and un-listing the older version. YT shorts are not getting the channel closer to monetization, thus taking advantage of branding impact with the new format. Can I see an increase in direct visits in muuuh.com?
 
+I am about to completely remove the content from simaec.net, leaving the website as a dummy site only. With the advent of large language models, the content published on simaec.net has become redundant.
+
 ## Websites &amp; YouTube Channels
 
 - [Muuuh Nature and Wildlife](https://muuuh.com "Muuuh Nature and Wildlife") - About wildlife photography and video recordings.
