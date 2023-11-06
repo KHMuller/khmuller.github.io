@@ -9,6 +9,10 @@ canonical: https://khmuller.github.io
 
 Exploring the principles of evolutionary biology, self-awareness, empathy, and creativity and, along the way, hoping to inspire others to play an active role in nature preservations.
 
+With the rise of ChatGPT, there is no need to publish anything related to web development. All tips and tricks can be easily obtained using tailored prompts. Therefore, simaec.net will be closed.
+
+But there is some exciting news. Kochtipps.ch, a website with hundreds of typical Swiss recipes, will receive a facelift and be translated into English, French, and Spanish. **Coming soon**.
+
 ## Websites &amp; YouTube Channels
 
 - [Muuuh Nature and Wildlife](https://muuuh.com "Muuuh Nature and Wildlife") - About wildlife photography and video recordings.
