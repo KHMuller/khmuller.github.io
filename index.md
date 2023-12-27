@@ -24,6 +24,9 @@ But there is some exciting news. Kochtipps.ch, a website with hundreds of typica
 
 |When?|What?|
 |:---|:---|
+|2023-12-26|Migrating kochtipps.ch to "Obsidian as CMS".|
+|2023-12-25|Reorganized muuuh.com dropping, park section, photos and videos.|
+|2023-12-24|Finalized migration of faunaflora.photography to ChatGPT translations.|
 |2023-12-12|Add English park descriptions to faunaflora.photography.|
 |2023-12-10|New format species page in faunaflora.photography.|
 |2023-07-04|Removed embedded multiple videos in faunaflora.photography. Just featured video now.|
