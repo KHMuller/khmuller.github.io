@@ -5,8 +5,6 @@ layout: default
 canonical: https://khmuller.github.io
 ---
 
-# Personal Website
-
 Exploring the principles of evolutionary biology, self-awareness, empathy, and creativity and, along the way, hoping to inspire others to play an active role in nature preservations.
 
 ## Websites &amp; YouTube Channels
