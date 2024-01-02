@@ -9,18 +9,15 @@ canonical: https://khmuller.github.io
 
 Exploring the principles of evolutionary biology, self-awareness, empathy, and creativity and, along the way, hoping to inspire others to play an active role in nature preservations.
 
-With the rise of ChatGPT, there is no need to publish anything related to web development. All tips and tricks can be easily obtained using tailored prompts. Therefore, simaec.net will be closed.
-
-But there is some exciting news. Kochtipps.ch, a website with hundreds of typical Swiss recipes, will receive a facelift and be translated into English, French, and Spanish. **Coming soon**.
-
 ## Websites &amp; YouTube Channels
 
 - [Muuuh Nature and Wildlife](https://muuuh.com "Muuuh Nature and Wildlife") - About wildlife photography and video recordings.
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
 - [Discovery Mexico](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
-- [Muuuh Nature and Wildlife on YT](https://youtube.com/@Muuuh "Muuuh Nature and Wildlife on YT") - Videos about animal behavior and nature 
+- [Muuuh Nature and Wildlife on YT](https://youtube.com/@Muuuh "Muuuh Nature and Wildlife on YT") - Videos about animal behavior and nature.
+- [Kochtipps](https://www.kochtipps.ch "Kochtipps) - Swiss recipes, ingredients and tips in German.
 
-## Dates, Updates w/ Potential SEO Impact
+## Dates, Updates with Potential SEO Impact
 
 |When?|What?|
 |:---|:---|
