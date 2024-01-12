@@ -19,6 +19,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2024-01-12|Removed all content from simaec.NET.|
 |2023-12-26|Migrating kochtipps.ch to "Obsidian as CMS".|
 |2023-12-25|Reorganized muuuh.com dropping, park section, photos and videos.|
 |2023-12-24|Finalized migration of faunaflora.photography to ChatGPT translations.|
