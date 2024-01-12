@@ -7,10 +7,6 @@ canonical: https://khmuller.github.io/about/
 
 ## About Karl-Heinz Müller
 
-Initially planned as test to look into web sites hosted on Github pages, I continue maintaining this website as sandbox to develop new ideas which may later be published in one of my websites in production.
+A brief introduction about myself: I am a biologist specializing in animal behavior and neurobiology. Since 1996, I have been actively involved in web publishing and digital marketing within the travel industry. My passion lies in nature and wildlife, and I dedicate my free time to capturing photos of fauna and flora, as well as recording videos and sounds of animals.
 
-A few words about myself. I am a biologist specialized in animal behavior and neurobiology, working since 1996 in the field of web publishing and digital marketing in the travel industry. I am passionate about nature and wildlife and dedicate my free time to taking photos of fauna and flora and recording videos and sounds of animals. 
-
-To contact me, please DM me on [mastodon.social](https://mastodon.social/@khmuller). I live in Montreal, Canada.
-
-This site is hosted on Github Pages and serves as example for the short guide how to [Setup Github Pages](https://www.simaec.net/website-development/github-pages-hosting/ "Setup Github Pages").
+To reach out to me, please use the [contact form](https://forms.gle/X7ouyRrDDCWLJBV48). I am located in Montreal, Canada.
