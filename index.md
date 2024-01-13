@@ -9,10 +9,10 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 ## Websites &amp; YouTube Channels
 
-- [Muuuh Nature and Wildlife](https://muuuh.com "Muuuh Nature and Wildlife") - About wildlife photography and video recordings.
+- [Muuuh - Nature and Wildlife](https://muuuh.com "Muuuh - Nature and Wildlife") - Site about wildlife photography and video recordings.
+- [Muuuh - Nature and Wildlife](https://youtube.com/@Muuuh "Muuuh - Nature and Wildlife") - YouTube channel with Videos about animal behavior and nature.
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
 - [Discovery Mexico](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
-- [Muuuh Nature and Wildlife on YT](https://youtube.com/@Muuuh "Muuuh Nature and Wildlife on YT") - Videos about animal behavior and nature.
 - [Kochtipps](https://www.kochtipps.ch "Kochtipps") - Swiss recipes, ingredients and tips in German.
 
 ## Dates, Updates with Potential SEO Impact
