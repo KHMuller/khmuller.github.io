@@ -19,6 +19,8 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2024-02-04|Moved article "Obsidian as CMS" over to muuuh.com/gear/using-obsidian-as-cms/|
+|2024-02-04|Reorganized articles in muuuh.com/gear/ section.|
 |2024-01-12|Removed all content from simaec.NET. The emergence of ChatGPT rendered it obsolete.|
 |2023-12-27|Videos in faunaflora.photography extended from 6s to 30s play on page load.|
 |2023-12-26|Migrating kochtipps.ch to "Obsidian as CMS".|
