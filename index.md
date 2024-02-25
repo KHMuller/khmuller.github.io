@@ -19,6 +19,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2024-02-24|Minor update to design muuuh.com. 100% Lighthouse performance!|
 |2024-02-04|Moved article "Obsidian as CMS" over to muuuh.com/gear/using-obsidian-as-cms/|
 |2024-02-04|Reorganized articles in muuuh.com/gear/ section.|
 |2024-01-12|Removed all content from simaec.NET. The emergence of ChatGPT rendered it obsolete.|
