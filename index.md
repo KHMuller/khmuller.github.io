@@ -20,7 +20,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 |When?|What?|
 |:---|:---|
 |2024-04-26|Removed date of photo large banner bc it is used by google to date an article in SERP!|
-|2024-04-24|Add ads back to muuuh.com|
+|2024-04-24|Added ads back to muuuh.com|
 |2024-02-24|Minor update to design muuuh.com. 100% Lighthouse performance!|
 |2024-02-04|Moved article "Obsidian as CMS" over to muuuh.com/gear/using-obsidian-as-cms/|
 |2024-02-04|Reorganized articles in muuuh.com/gear/ section.|
