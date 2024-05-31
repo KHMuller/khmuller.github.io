@@ -19,6 +19,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2024-05-31|Added robots noindex, nofollow to 404 page in muuuh.com and faunaflora.photography|
 |2024-04-26|Removed date of photo large banner bc it is used by google to date an article in SERP!|
 |2024-04-24|Added ads back to muuuh.com|
 |2024-02-24|Minor update to design muuuh.com. 100% Lighthouse performance!|
