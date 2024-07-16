@@ -10,15 +10,17 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 ## Websites &amp; YouTube Channels
 
 - [Muuuh - Nature and Wildlife](https://muuuh.com "Muuuh - Nature and Wildlife") - Site about wildlife photography and video recordings.
-- [Muuuh on YouTube](https://youtube.com/@Muuuh "Muuuh on YouTube") - YouTube channel with Videos about animal behavior and nature.
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
 - [Discovery Mexico](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
 - [Kochtipps](https://www.kochtipps.ch "Kochtipps") - Swiss recipes, ingredients and tips in German.
+- [Muuuh on YouTube](https://youtube.com/@Muuuh "Muuuh on YouTube") - YouTube channel with Videos about animal behavior and nature.
+- [Using Obsidian as CMS](https://youtube.com/@UsingObsidianAsCMS "Using Obsidian as CMS on YouTube") - YouTube channel with Videos about how I use Obsidian as CMS with a collection of Python scripts.
 
 ## Dates, Updates with Potential SEO Impact
 
 |When?|What?|
 |:---|:---|
+|2024-07-11|Fixed error of canonical link tag in kochtipps.ch.|
 |2024-06-13|Added in simaec.net a link to muuuh.com Obsidian as CMS page.|
 |2024-06-10|Updated muuuh.com robots.txt because of issue with Obsidian pdf. Removed disallow on assets.|
 |2024-05-31|Added robots noindex, nofollow to 404 page in muuuh.com and faunaflora.photography.|
