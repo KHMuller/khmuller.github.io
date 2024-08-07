@@ -7,13 +7,16 @@ canonical: https://khmuller.github.io
 
 Exploring the principles of evolutionary biology, self-awareness, empathy, and creativity and, along the way, hoping to inspire others to play an active role in nature preservations.
 
-## Websites &amp; YouTube Channels
+## Websites
 
 - [Muuuh - Nature and Wildlife](https://muuuh.com "Muuuh - Nature and Wildlife") - Site about wildlife photography and video recordings.
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
 - [Discovery Mexico](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
 - [Kochtipps](https://www.kochtipps.ch "Kochtipps") - Swiss recipes, ingredients and tips in German.
-- [Muuuh on YouTube](https://youtube.com/@Muuuh "Muuuh on YouTube") - YouTube channel with Videos about animal behavior and nature.
+
+## YouTube Channels
+
+- [Nature, Wildlife & Animal Behavior](https://youtube.com/@Muuuh "Muuuh on YouTube") - YouTube channel with Videos about animal behavior and nature.
 - [Using Obsidian as CMS](https://youtube.com/@UsingObsidianAsCMS "Using Obsidian as CMS on YouTube") - YouTube channel with Videos about how I use Obsidian as CMS with a collection of Python scripts.
 
 ## Dates, Updates with Potential SEO Impact
