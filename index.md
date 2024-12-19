@@ -23,6 +23,8 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2024-12-21|Species, Parks content published in muuuh.com.|
+|2024-12-15|Redesign of muuuh.com.|
 |2024-07-11|Fixed error of canonical link tag in kochtipps.ch.|
 |2024-06-13|Added in simaec.net a link to muuuh.com Obsidian as CMS page.|
 |2024-06-10|Updated muuuh.com robots.txt because of issue with Obsidian pdf. Removed disallow on assets.|
