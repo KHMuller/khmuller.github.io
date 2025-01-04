@@ -23,6 +23,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2025-01-01|Published Bird Battle Royale|
 |2024-12-21|Species, Parks content published in muuuh.com.|
 |2024-12-15|Redesign of muuuh.com.|
 |2024-07-11|Fixed error of canonical link tag in kochtipps.ch.|
