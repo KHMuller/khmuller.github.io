@@ -7,6 +7,11 @@ canonical: https://khmuller.github.io/about/
 
 ## About Karl-Heinz Müller
 
-A brief introduction about myself: I am a biologist specializing in animal behavior and neurobiology. Since 1996, I have been actively involved in web publishing and digital marketing within the travel industry. My passion lies in nature and wildlife, and I dedicate my free time to capturing photos of fauna and flora, as well as recording videos and sounds of animals.
+Karl-Heinz Müller studied neurobiology and animal behaviour at ETH Zurich. His master thesis was about neural development of Zebrafish (Danio rerio). Later, he researched the importance of MTF-1 (Metallothionein Transcription Factor) in embryonal development of mice at the University Zurich.
 
-To reach out to me, please use the [contact form](https://forms.gle/X7ouyRrDDCWLJBV48). I am located in Montreal, Canada.
+- [Analysis of the heavy metal-responsive transcription factor MTF-1 from human and mouse](https://pubmed.ncbi.nlm.nih.gov/8619126/)
+- [Embryonic lethality and liver degeneration in mice lacking the metal‐responsive transcriptional activator MTF‐1](https://www.embopress.org/doi/full/10.1093/emboj/17.10.2846)
+
+For almost 30 years, Karl-Heinz Müller has dedicated himself to creating and/or promoting various websites, primarily within the travel industry: discoverymexico.com, bestday.com, cancun.com, vacationexpress.com to mention a few.
+
+Over the past years, he acquired professional level of wildlife photography being able to share with you his passion for nature, wildlife and animal behaviour through his photos, videos and sound recordings.
