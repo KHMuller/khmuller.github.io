@@ -9,7 +9,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 - [Muuuh Nature Documentaries](https://muuuh.com "Muuuh Nature Documentaries") - Site about wildlife photography and video recordings.
 - [Fauna Flora Photography](https://faunaflora.photography "Fauna Flora Photography") - A collection of information about species observed in the Montreal area.
-- [Discovery Mexico](https://www.discoverymexico.com.mx "Discovery Mexico") - Travel guide for Mexico in Spanish.
+- [Discovery Mexico](https://www.discoverymexico.com "Discovery Mexico") - Travel guide for Mexico in Spanish.
 - [Kochtipps](https://www.kochtipps.ch "Kochtipps") - Swiss recipes, ingredients and tips in German.
 - [Muuuh Nature Documentaries](https://youtube.com/@Muuuh "Muuuh on YouTube") - YouTube channel with Videos about animal behavior and nature.
 
