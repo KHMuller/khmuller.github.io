@@ -17,11 +17,12 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2025-03-16|Added, Quizzes, new game to muuuh.com|
 |2025-03-13|Published discoverymexico.com|
-|2025-02-18|Updated Meta Title and Description (Recommended by Bing Webmaster Tools)|
-|2025-01-26|Finalized Creatures Simulations|
-|2025-01-01|Published Bird Battle Royale|
-|2024-12-21|Species, Parks content published in muuuh.com.|
+|2025-02-18|Updated meta title and description (Recommended by Bing Webmaster Tools)|
+|2025-01-26|Finalized creatures simulations|
+|2025-01-01|Published "Bird Battle Royale"|
+|2024-12-21|Species, parks content published in muuuh.com.|
 |2024-12-15|Redesign of muuuh.com.|
 |2024-07-11|Fixed error of canonical link tag in kochtipps.ch.|
 |2024-06-13|Added in simaec.net a link to muuuh.com Obsidian as CMS page.|
