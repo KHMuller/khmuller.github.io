@@ -16,6 +16,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2025-03-27|Changed headline for parks "How to get there" muuuh.com|
 |2025-03-20|2nd round meta title & description improvements muuuh.com (Recommended by Bing Webmaster Tools)|
 |2025-03-16|Added, Quizzes, new game to muuuh.com|
 |2025-03-13|Published discoverymexico.com|
