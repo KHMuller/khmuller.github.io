@@ -16,6 +16,7 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 |When?|What?|
 |:---|:---|
+|2025-05-15|Authority increased from 9 to 10 in muuuh.com|
 |2025-05-08|Published Deep Dive content for different species in muuuh.com.|
 |2025-05-03|Updated homepage in muuuh.com. New title and description.|
 |2025-03-27|Changed headline for parks "How to get there" muuuh.com|
