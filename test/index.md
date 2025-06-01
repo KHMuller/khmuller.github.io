@@ -7,6 +7,4 @@ canonical: https://khmuller.github.io/test/
 
 ## Testing Images in Github Pages
 
-![Marsh Wren](https://simaecnet.imgix.net/photos/khm-20250518-1120-9345.jpg?w=1800&amp;h=1200&amp;fit=crop&amp;auto=format,compress&amp;crop=focalpoint&amp;fp-x=0.4&amp;fp-y=0.4)
-
-<img src="https://simaecnet.imgix.net/photos/khm-20250518-1120-9345.jpg?w=1800&amp;h=1200&amp;fit=crop&amp;auto=format,compress&amp;crop=focalpoint&amp;fp-x=0.4&amp;fp-y=0.4" alt="Marsh Wren (Cistothorus palustris)">
+![Marsh Wren](https://simaecnet.imgix.net/photos/khm-20250518-1120-9345.jpg?w=1800&h=1200&fit=crop&auto=format,compress&crop=focalpoint&fp-x=0.4&fp-y=0.4)
