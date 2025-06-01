@@ -1,0 +1,26 @@
+{% assign image_path = include.image %}
+{% assign crop_type = include.crop | default: "crop" %}
+{% assign fp_x = include.fp-x | default: "0.5" %}
+{% assign fp_y = include.fp-y | default: "0.5" %}
+{% assign crop_params = "" %}
+{% if crop_type == "focalpoint" %}
+  {% assign crop_params = "&crop=focalpoint&fp-x=" | append: fp_x | append: "&fp-y=" | append: fp_y %}
+{% endif %}
+
+<picture>
+  <!-- Large desktop screens (2x retina) -->
+  <source media="(min-width: 1200px)" 
+          srcset="{{ image_path }}?w=2400&h=1600&fit=crop&auto=format,compress{{ crop_params }} 2x,
+                  {{ image_path }}?w=1200&h=800&fit=crop&auto=format,compress{{ crop_params }} 1x">
+  <!-- Tablets and smaller desktops -->
+  <source media="(min-width: 768px)" 
+          srcset="{{ image_path }}?w=1024&h=683&fit=crop&auto=format,compress{{ crop_params }}">
+  <!-- Mobile devices -->
+  <source media="(max-width: 767px)" 
+          srcset="{{ image_path }}?w=640&h=427&fit=crop&auto=format,compress{{ crop_params }}">
+  <!-- Fallback -->
+  <img src="{{ image_path }}?w=800&h=533&fit=crop&auto=format,compress{{ crop_params }}" 
+       alt="{{ include.alt }}"
+       loading="lazy"
+       style="width: 100%; height: auto;">
+</picture> 
