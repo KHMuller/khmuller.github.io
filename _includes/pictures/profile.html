@@ -6,17 +6,13 @@
 {% endif %}
 
 <picture>
-  <!-- Large desktop screens (2x retina) -->
   <source media="(min-width: 1200px)" 
           srcset="{{ image_path }}?w=2400&h=1600&fit=crop&auto=format,compress{{ crop_params }} 2x,
                   {{ image_path }}?w=1200&h=800&fit=crop&auto=format,compress{{ crop_params }} 1x">
-  <!-- Tablets and smaller desktops -->
   <source media="(min-width: 768px)" 
           srcset="{{ image_path }}?w=1024&h=683&fit=crop&auto=format,compress{{ crop_params }}">
-  <!-- Mobile devices -->
   <source media="(max-width: 767px)" 
           srcset="{{ image_path }}?w=640&h=427&fit=crop&auto=format,compress{{ crop_params }}">
-  <!-- Fallback -->
   <img src="{{ image_path }}?w=800&h=533&fit=crop&auto=format,compress{{ crop_params }}" 
        alt="{{ include.alt }}"
        loading="lazy"
