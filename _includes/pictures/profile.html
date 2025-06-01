@@ -1,10 +1,8 @@
 {% assign image_path = include.image %}
-{% assign crop_type = include.crop | default: "crop" %}
-{% assign fp_x = include.fp-x | default: "0.5" %}
-{% assign fp_y = include.fp-y | default: "0.5" %}
-{% assign crop_params = "" %}
-{% if crop_type == "focalpoint" %}
-  {% assign crop_params = "&crop=focalpoint&fp-x=" | append: fp_x | append: "&fp-y=" | append: fp_y %}
+{% if include.presentation %}
+  {% assign crop_params = "&crop=" | append: include.presentation %}
+{% else %}
+  {% assign crop_params = "&crop=entropy" %}
 {% endif %}
 
 <picture>

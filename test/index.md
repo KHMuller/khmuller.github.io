@@ -8,17 +8,14 @@ canonical: https://khmuller.github.io/test/
 ## Testing Images in Github Pages
 
 ## Example with Focalpoint Crop
-{% include responsive-image.html 
+{% include pictures/profile.html 
    image="https://simaecnet.imgix.net/photos/khm-20250518-1120-9345.jpg"
    alt="Marsh Wren"
-   crop="focalpoint"
-   fp-x="0.4"
-   fp-y="0.4" 
+   presentation="focalpoint&fp-x=0.4&fp-y=0.4" 
 %}
 
 ## Example with Entropy Crop
-{% include responsive-image.html 
+{% include pictures/profile.html 
    image="https://simaecnet.imgix.net/photos/khm-20250518-1120-9345.jpg"
    alt="Another Image"
-   crop="entropy" 
 %}
