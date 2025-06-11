@@ -5,9 +5,9 @@ layout: default
 canonical: https://khmuller.github.io/github/
 ---
 
-## Frequently Used Git/Github Commands
+# Frequently Used Git/Github Commands
 
-### Delete file from current branch
+## Delete file from current branch
 Deletes a file from local and remote repository.
 
 ~~~bash
@@ -16,7 +16,7 @@ git commit -m "Deleted a file"
 git push
 ~~~
 
-### Delete all history of a git repository
+## Delete all history of a git repository
 
 Delete repository history and hence clean up tracking of deleted files. This is achieved by creating a branch without history, deleting the original branch and then rename the new branch with the old name.
 
