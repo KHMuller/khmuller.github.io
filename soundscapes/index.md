@@ -1,6 +1,6 @@
 ---
-title: Soundscapes
-description: List of Soundscapes
+title: "Soundscapes :: Quebec's Wilderness :: Quebec Sauvage"
+description: "Experience Quebec's wilderness by listining to different soundscapes."
 headline: List of Soundscapes
 layout: headline
 canonical: https://khmuller.github.io/soundscapes/
