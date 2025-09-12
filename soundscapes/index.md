@@ -1,10 +1,12 @@
 ---
 title: Soundscapes
 description: Soundscapes
-headline: Soundscapes
+headline: List of Soundscapes
 layout: headline
 canonical: https://khmuller.github.io/soundscapes/
 ---
+
+Growing list of published soundscapes
 
 |Title|Recorded|GEO|Habitat|Region|Park|Published|YouTube|
 |---|---|---|---|---|---|---|---|
