@@ -1,7 +1,7 @@
 ---
 title: Soundscapes
 description: Soundscapes
-headline: Soundscapes :: Quebec Sauvage
+headline: Soundscapes
 layout: headline
 canonical: https://khmuller.github.io/soundscapes/
 ---
