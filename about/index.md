@@ -1,6 +1,7 @@
 ---
 title: About khmuller.github.io
 description: About khmuller.github.io
+headline: About Karl-Heinz Müller
 layout: default
 canonical: https://khmuller.github.io/about/
 ---
