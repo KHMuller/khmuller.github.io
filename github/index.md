@@ -7,7 +7,14 @@ canonical: https://khmuller.github.io/github/
 
 # Frequently Used Git/Github Commands
 
+## Clone github repository
+
+~~~bash
+git clone https://github.com/username/repository.git
+~~~
+
 ## Delete file from current branch
+
 Deletes a file from local and remote repository.
 
 ~~~bash
