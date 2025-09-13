@@ -10,6 +10,7 @@ This page provides a dated log of updates made to my own websites. Each entry re
 
 |Date|Description|
 |:---|:---|
+|2025-08-31|Launched quebecsauvage.ca|
 |2025-06-08|Transition from header h1 to headline h1 in muuuh.com|
 |2025-05-21|Deleted discoverymexico.com.mx. Now redirects to discoverymexico.com|
 |2025-05-15|Authority increased from 9 to 10 in muuuh.com|
