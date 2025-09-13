@@ -6,10 +6,11 @@ canonical: https://khmuller.github.io/pending/
 ---
 # Pending Tasks
 
-|Topic|Description|Status|
-|:---|:---|:---|---|
-|MEL|Add park visit log as event type||
-|FF Layout|Add park visit log as event type||
+- MEL: Add slow paced event tracking with text
+- FF: Change style to dark mode
+    - Update translation.py for DE/ES/FR content
+
+## Abbrevations
 
 - FF: Fauna Flora Photography - [faunaflora.photography](https://faunaflora.photography "Fauna & Flora in Quebec")
 - MEL: Muuuh's Event Logger - [MEL](https://muuuh.com/mel/ "Muuuh's Event Logger")
