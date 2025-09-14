@@ -157,6 +157,10 @@ h2 {
         line-height:1.75rem;
     }
 
+    li > ul {
+        margin-top: 0;
+    }
+
     p {
         letter-spacing: 1px;
         line-height:1.8rem;
