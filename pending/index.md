@@ -13,6 +13,7 @@ In no particular order, here’s what comes to mind that needs to be fixed, adde
     - Update translation.py for DE/ES/FR content
 - Obsidian: Change note names of videos from YT id to name
     - Adjust referring videos build.py
+- H1: Drop using h1 for brand, use it for headline instead.
 
 ## Abbrevations
 
