@@ -10,6 +10,7 @@ This page provides a dated log of updates made to my own websites. Each entry re
 
 |Date|Description|
 |:---|:---|
+|2025-11-14|Finished updating caption all animal photos in MH|
 |2025-11-01|Fixed ld+json for videos in MH|
 |2025-10-30|Started with "At a Glance" in MH|
 |2025-10-23|Added soundscape page with video ld+json|

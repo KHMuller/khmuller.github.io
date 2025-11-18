@@ -9,4 +9,5 @@ Exploring the principles of evolutionary biology, self-awareness, empathy, and c
 
 - [Muuuh Nature Documentaries](https://muuuh.com "Muuuh Nature Documentaries") - Site about wildlife photography and video recordings.
 observed in the Montreal area.
+- [MUUUH Nature Documentaries Broadcast](https://www.youtube.com/@muuuh/live) - Daily from 6 a.m. to 6 p.m. EST
 - [Québec Sauvage](https://quebecsauvage.ca "Québec Sauvage") - A collection of soundscapes recorded in Québec.
